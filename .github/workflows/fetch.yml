@@ -25,12 +25,29 @@ jobs:
           cd perkradar
           npm install --no-audit --no-fund
           node --import tsx run-once.mts
-      - name: Commit board
+      - name: Publish board via API
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          mkdir -p reports
-          cp perkradar/reports/board-full.json reports/board-full.json
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/board-full.json
-          git diff --cached --quiet || git commit -m "board update"
-          git push
+          python3 - <<'PYEOF'
+          import base64, json, os, urllib.request
+          token = os.environ["GH_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          path = "reports/board-full.json"
+          data = open("perkradar/reports/board-full.json", "rb").read()
+          api = "https://api.github.com/repos/" + repo + "/contents/" + path
+          headers = {"Authorization": "Bearer " + token, "Accept": "application/vnd.github+json"}
+          sha = None
+          try:
+              req = urllib.request.Request(api, headers=headers)
+              with urllib.request.urlopen(req) as r:
+                  sha = json.load(r).get("sha")
+          except Exception as e:
+              print("no existing file:", e)
+          body = {"message": "board update", "content": base64.b64encode(data).decode()}
+          if sha:
+              body["sha"] = sha
+          req = urllib.request.Request(api, data=json.dumps(body).encode(), method="PUT", headers={**headers, "Content-Type": "application/json"})
+          with urllib.request.urlopen(req) as r:
+              print("published:", r.status)
+          PYEOF
