@@ -1,0 +1,36 @@
+name: fetch-board
+
+on:
+  schedule:
+    - cron: "23 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Clone PerkRadar upstream
+        run: git clone --depth 1 https://github.com/luobinger/PerkRadar.git perkradar
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install and run
+        run: |
+          cp run-once.mts perkradar/run-once.mts
+          cd perkradar
+          npm install --no-audit --no-fund
+          node --import tsx run-once.mts
+      - name: Commit board
+        run: |
+          mkdir -p reports
+          cp perkradar/reports/board-full.json reports/board-full.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/board-full.json
+          git diff --cached --quiet || git commit -m "board update"
+          git push
