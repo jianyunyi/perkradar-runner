@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795617685700,
-  "lastUpdatedAt": 1795617687636,
-  "lastUpdatedLabel": "2026-11-25 22:41",
+  "generatedAt": 1795653204935,
+  "lastUpdatedAt": 1795653206461,
+  "lastUpdatedLabel": "2026-11-26 08:33",
   "nextRefreshAt": null,
   "nextRefreshLabel": null,
   "sourceHealth": {
@@ -137,206 +137,478 @@
   "deals": [
     {
       "id": 77,
-      "url": "https://www.nodeseek.com/post-1080703-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080703-1",
-      "title": "我不能失去Gemini，就如西方不能失去耶路撒冷",
-      "summary": "淘宝花了35大洋买的pro稳定到现在快6个月了，居然还没掉，这黑五还咋上车啊？",
+      "url": "https://www.nodeseek.com/post-1081250-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081250-1",
+      "title": "【出】30出一个 gpt team 6折优惠码",
+      "summary": "参考价格https://www.nodeseek.com/post-1080608-1",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617678000,
+      "publishedAt": 1795653186000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:41",
+      "publishedLabel": "2026-11-26 08:33",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 78,
-      "url": "https://www.nodeseek.com/post-1080702-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080702-1",
-      "title": "0刀5席位team又过一个，经验分享（仅供参考）",
-      "summary": "我生成的US地区的长链，然后用的roogoo的卡过的（同一张卡绑了2个号）。这个是第一次，生成长链复制刀浏览器里然后绑卡：https://www.nodeseek.com/post-1080525-1#8本次是第二次，直接通过提炼工具一条龙直接绑卡付款。实测应该还是跟卡的原因比较大，其次长链绑卡可能稍微好过一些。",
+      "url": "https://www.nodeseek.com/post-1081249-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081249-1",
+      "title": "土区怎么定Gemini，怎么操作阿。有攻略吗",
+      "summary": "土区怎么定Gemini，怎么操作阿。有攻略吗",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617649000,
+      "publishedAt": 1795653116000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:40",
+      "publishedLabel": "2026-11-26 08:31",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 79,
-      "url": "https://www.nodeseek.com/post-1080701-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080701-1",
-      "title": "［多图］大家觉得哪个回答的更牛逼？Gemini 4 Neon VS Claude Opus 5.5",
-      "summary": "不知道算不算人文能力比拼？Gemini4Neon的回答：这组短漫最狠的一刀在最后一页：整个人形轮廓完全由密密麻麻的“傲慢”堆砌而成，嘴里却轻飘飘吐出一句极小的“这叫理性好吗”。这一格的视觉反差，直接把现实里最让人窒息的一种沟通困境钉在了耻辱柱上。整段对话其实精准拆解了“伪理性说教”的三步走套路：先用玄学鸡汤居高临下",
+      "url": "https://www.nodeseek.com/post-1081248-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081248-1",
+      "title": "想入坑gemini，请问各位我用AI搜索的这个gemini方案是否准确？",
+      "summary": "",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617631000,
+      "publishedAt": 1795653042000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:40",
+      "publishedLabel": "2026-11-26 08:30",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 80,
-      "url": "https://www.nodeseek.com/post-1080699-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080699-1",
-      "title": "土区Gemini Pro 3599₺一年 要冲吗",
-      "summary": "换算下来就是人民币500块钱",
+      "url": "https://www.nodeseek.com/post-1081247-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081247-1",
+      "title": "大家平时都用什么管理谷歌账户和绑定关联账户的账密",
+      "summary": "rt买了一些谷歌号改完密码就忘（）然后经常相互之间绑定了什么没绑定什么分不清",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617595000,
+      "publishedAt": 1795652994000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:39",
+      "publishedLabel": "2026-11-26 08:29",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 81,
-      "url": "https://www.nodeseek.com/post-1080698-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080698-1",
-      "title": "闲置claude pro谁要 给鸡腿 给一个测评就够",
-      "summary": "3个pro用不了，还有一个，只接合法合规项目，lv3以上，给你用半个月。",
-      "category": "其他",
+      "url": "https://www.nodeseek.com/post-1081246-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081246-1",
+      "title": "【慈云数据】免费抽 5 台香港 CN2 精品原生 IP 云服务器！附拼团及公益云福利",
+      "summary": "各位NodeSeek的朋友大家好！这次准备了5台香港CN2精品云服务器，免费送给大家体验！本次抽奖所在区域为「香港精品原生IP区」，采用香港原生IP，搭配CN2精品线路。欢迎大家体验并分享真实使用感受。🎁抽奖奖品香港CN2-B型云服务器×5台，共5名中奖用户，每人1台。**CPU：**2核IntelXeonPla",
+      "category": "免费白嫖",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617588000,
+      "publishedAt": 1795652842000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:39",
+      "publishedLabel": "2026-11-26 08:27",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 82,
-      "url": "https://www.nodeseek.com/post-1080697-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080697-1",
-      "title": "chatgpt弹出一个bussness，值不值",
-      "summary": "一个月从20涨到25美元",
+      "url": "https://www.nodeseek.com/post-1081245-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081245-1",
+      "title": "vpshostingservice的7刀小鸡买到了",
+      "summary": "7刀还要啥自行车，能稳定运行就行了不是自动开通的，还得等话说这家不能push吗，没找到",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617585000,
+      "publishedAt": 1795652818000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:39",
+      "publishedLabel": "2026-11-26 08:26",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 83,
-      "url": "https://www.nodeseek.com/post-1080695-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080695-1",
-      "title": "找个百度云代理",
-      "summary": "rt",
+      "url": "https://www.nodeseek.com/post-1081244-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081244-1",
+      "title": "收个zouter JP 168年付",
+      "summary": "RT",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617486000,
+      "publishedAt": 1795652795000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:38",
+      "publishedLabel": "2026-11-26 08:26",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 84,
-      "url": "https://www.nodeseek.com/post-1080694-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080694-1",
-      "title": "求sg落地推荐",
-      "summary": "预算在每个月6刀以下，流量用的不多，稳定一点就可以，谢谢各位",
+      "url": "https://www.nodeseek.com/post-1081243-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081243-1",
+      "title": "[开源] Minecraft 字体 RCE (minecraft2shell) 客户端临时防护补丁 v2.2.0，各位方块人按需取用",
+      "summary": "昨天Minecraft圈子里的minecraft2shell（服务端资源包字体RCE）爆出来了：恶意服主只要诱导客户端加载包含特制TrueType字体的资源包，利用FreeType<2.15.0中SHZ指令的堆溢出漏洞，游戏只要渲染一个字符就能直接接管客户端进程（PoC演示是弹计算器，实战里跑什么都行）。虽然",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617475000,
+      "publishedAt": 1795652701000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:37",
+      "publishedLabel": "2026-11-26 08:25",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 85,
-      "url": "https://www.nodeseek.com/post-1080693-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080693-1",
-      "title": "留档 [IP测试] 美国 ISP VPS",
-      "summary": "",
+      "url": "https://www.nodeseek.com/post-1081242-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081242-1",
+      "title": "Raksmart3.99那个是双向1T吗",
+      "summary": "RT",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617470000,
+      "publishedAt": 1795652684000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:37",
+      "publishedLabel": "2026-11-26 08:24",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 86,
-      "url": "https://www.nodeseek.com/post-1080692-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080692-1",
-      "title": "+550 收一台novixlink LAS-COX Lite老款",
-      "summary": "价格好商量，限今天",
+      "url": "https://www.nodeseek.com/post-1081241-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081241-1",
+      "title": "震惊！！！NS惊现新一代颠覆测速行业平台横空出世！！！",
+      "summary": "无任何限制，随用随测，无广告，无需赞助任何节点(只要市面上还有一家测速平台不倒，我们就能无限逆向获取对方节点来用。)地址：https://ping.nexakj.com/另外GTA6移植PC版已经有了",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617397000,
+      "publishedAt": 1795652682000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:36",
+      "publishedLabel": "2026-11-26 08:24",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 87,
-      "url": "https://www.nodeseek.com/post-1080691-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080691-1",
-      "title": "Gemini Pro全掉了，我感觉我根本不需要Gemini",
-      "summary": "有gpt土区传家宝，grok印区当年的传家宝。还薅着workbuddy的羊毛。平时就偶尔写几个小文件，其实足够用了。你们的token都干嘛用了？？？",
+      "url": "https://www.nodeseek.com/post-1081240-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081240-1",
+      "title": "依旧路由4o",
+      "summary": "望着sb一样的回答，我就知道我又路由到openai最强模型了",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617378000,
+      "publishedAt": 1795652665000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:36",
+      "publishedLabel": "2026-11-26 08:24",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 88,
-      "url": "https://www.nodeseek.com/post-1080690-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080690-1",
-      "title": "gemini美区学生号pro掉了，结果plus也掉了，我的天。",
-      "summary": "经过如下：1、今天1年免费的学生pro号突然没了，伤心坏了；2、然后链接进去看，看可以免费订阅1年的学生plus号，就订上了，想着能用也差不多。3、刚刚发现，plus也掉了。看来羊毛不好薅啊，还是花点钱实在。",
+      "url": "https://www.nodeseek.com/post-1081239-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081239-1",
+      "title": "一折20x掉了",
+      "summary": "开个土区20x继续",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617356000,
+      "publishedAt": 1795652520000,
       "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:35",
+      "publishedLabel": "2026-11-26 08:22",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
     },
     {
       "id": 89,
-      "url": "https://www.nodeseek.com/post-1080689-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080689-1",
-      "title": "已送出 K.PL的波兰伪家宽小鸡root",
-      "summary": "再送个K.PL的波兰伪家宽小鸡root，明天到期，G口无限流量，有需要的私送给第一个私的人NodeQuality链接在这个帖子：https://www.nodeseek.com/post-1033043-1",
+      "url": "https://www.nodeseek.com/post-1081238-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081238-1",
+      "title": "出Lightlayer HK 20Mbps",
+      "summary": "套餐：LightlayerHK-VP04到期时间：19/12/2026续费价格：$5.00USD(月付)带宽：20Mbps已用流量：37.93GB/1000GBIP段156.238谷歌IP已送中明盘20元，支付宝口令，Lightlayer站内PUSH",
       "category": "其他",
       "sourceId": "nodeseek",
       "sourceName": "NodeSeek",
-      "publishedAt": 1795617300000,
+      "publishedAt": 1795652492000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:21",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 90,
+      "url": "https://www.nodeseek.com/post-1081237-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081237-1",
+      "title": "反重力不是也会封号吗",
+      "summary": "真的这么好用吗",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652430000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:20",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 91,
+      "url": "https://www.nodeseek.com/post-1081236-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081236-1",
+      "title": "MJJ黑色星期5🈶那些活动汇总呢？",
+      "summary": "黑色星期5🈶那些活动汇总呢？可以在哪里看？",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652422000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:20",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 92,
+      "url": "https://www.nodeseek.com/post-1081235-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081235-1",
+      "title": "没想到汐云新上的SG的V6，我电信延迟350ms，为啥看能看1440清晰的油管视频，下载还达到6M，不太懂了",
+      "summary": "延迟有350多，但看油管速度竟然不错啊，V6的SS协议，虽然不是晚高峰，但是打破了我的认知了，延迟这么高，竟然可以看1440的油管视频，下载速度可以达到6M。难道G口带宽的原因？付上一个8折优惠券，想要的可以用上。AFF:https://my.cvm.sh/aff.php?aff=1限时8折循环优惠码：M99KHM",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652388000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:19",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 93,
+      "url": "https://www.nodeseek.com/post-1081234-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081234-1",
+      "title": "【出】lightlayer LA-VP03-A SG-VP02-A 优化小水管 打包八五折260出",
+      "summary": "LA未过白，SGtcp阻断ssh链接超时伤心出了，不玩他家的鸡了VPS年付价格到期日期剩余天数剩余价值第一台$24.992027-11-14353天¥161.25第二台$24.992027-10-15323天¥147.54合计¥308.79截至2026-11-26，按剩余天数折算，汇率按1美元=6.6718元人民币",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652367000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:19",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 94,
+      "url": "https://www.nodeseek.com/post-1081233-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081233-1",
+      "title": "有没有那种不拒绝或者无审查的ds glm中转站",
+      "summary": "rt",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652348000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:19",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 95,
+      "url": "https://www.nodeseek.com/post-1081232-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081232-1",
+      "title": "starryblu IBAN不能用",
+      "summary": "starrybluIBAN不能用，sepa转账功能都需要签证。申请到了卡，但是无法充值，这怎么解决，为什么哪些博主功能正常",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652333000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:18",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 96,
+      "url": "https://www.nodeseek.com/post-1081231-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1081231-1",
+      "title": "目前已收集4种Gemini Pro，还差三种就可以召唤神龙了",
+      "summary": "jioProPixelPro日区30R一个月的stuPro土区3599里拉(实际3688)的黑五年付Pro",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795652270000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:17",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 1,
+      "url": "https://linux.do/t/topic/3245404",
+      "canonicalUrl": "https://linux.do/t/topic/3245404",
+      "title": "谷歌账号遭到停用了，如何进行申诉",
+      "summary": "",
+      "category": "其他",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795651620000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 08:07",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "url": "https://linux.do/t/topic/3245338",
+      "canonicalUrl": "https://linux.do/t/topic/3245338",
+      "title": "佬们，GPT team 有什么玩法吗？",
+      "summary": "",
+      "category": "其他",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795648808000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 07:20",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "url": "https://linux.do/t/topic/3245148",
+      "canonicalUrl": "https://linux.do/t/topic/3245148",
+      "title": "雪花公益 发布主贴",
+      "summary": "",
+      "category": "其他",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795630219000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 02:10",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 4,
+      "url": "https://linux.do/t/topic/3245083",
+      "canonicalUrl": "https://linux.do/t/topic/3245083",
+      "title": "送个1x gpt team",
+      "summary": "",
+      "category": "其他",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795628140000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 01:35",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 5,
+      "url": "https://linux.do/t/topic/3244929",
+      "canonicalUrl": "https://linux.do/t/topic/3244929",
+      "title": "朝朝宝六周年庆活动",
+      "summary": "",
+      "category": "其他",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795625001000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-26 00:43",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 6,
+      "url": "https://linux.do/t/topic/3244692",
+      "canonicalUrl": "https://linux.do/t/topic/3244692",
+      "title": "12 点准时抢农行 10 立减金",
+      "summary": "",
+      "category": "低价优惠",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795622276000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-25 23:57",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 26,
+      "url": "https://www.v2ex.com/t/1259842",
+      "canonicalUrl": "https://www.v2ex.com/t/1259842",
+      "title": "不用注册就能直接试 MAGI-2，还挺省事",
+      "summary": "最近想试一下 MAGI-2，主要还是对它的音视频同步生成比较感兴趣——以前用视频模型大多只能出“默片”，音效和配音还得后期另找工具补，这次可以直接把画面、对白、环境音和镜头节奏一起带出来。 看到 magi-2.run 这边正好开放了免注册的在线试用： https://magi-2.run 打开就能直接进到生成界面，不用…",
+      "category": "其他",
+      "sourceId": "v2ex",
+      "sourceName": "V2EX推广",
+      "publishedAt": 1795619871000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-25 23:17",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 27,
+      "url": "https://www.v2ex.com/t/1259839",
+      "canonicalUrl": "https://www.v2ex.com/t/1259839",
+      "title": "[推广] 38 页产品说明书 PDF，我拆回 PPT 花了两小时",
+      "summary": "上周三下午，做硬件的朋友发来一份 38 页的产品说明书 PDF，说客户要改第 12 到 17 页的几张参数表和三条图注，其他不动。文件是设计那边出的，前面十几页是矢量文字，后面夹了几页扫描的检测报告。 我的做法是先按页拆开，一页一页判断是文字页还是图片页。文字页把文本框和图片按原坐标提出来，扫描页走识别。38 页跑下来…",
+      "category": "其他",
+      "sourceId": "v2ex",
+      "sourceName": "V2EX推广",
+      "publishedAt": 1795619312000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-25 23:08",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 28,
+      "url": "https://www.v2ex.com/t/1259836",
+      "canonicalUrl": "https://www.v2ex.com/t/1259836",
+      "title": "急寻各位中转站长合作，互利共赢",
+      "summary": "不是数商哈，本人大厂背景出身，平时与国内各大厂打交道 搭建一个平台能够让各位站长直接同时对接多家模型大厂 把价值和利益最大化，互利共赢 ✈️（base64）：VGVvTmlrZQ==",
+      "category": "其他",
+      "sourceId": "v2ex",
+      "sourceName": "V2EX推广",
+      "publishedAt": 1795618719000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-25 22:58",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 7,
+      "url": "https://linux.do/t/topic/3244214",
+      "canonicalUrl": "https://linux.do/t/topic/3244214",
+      "title": "各位佬们，请教个反重力问题",
+      "summary": "",
+      "category": "其他",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "publishedAt": 1795617316000,
       "expiresAt": null,
       "publishedLabel": "2026-11-25 22:35",
       "expiresLabel": null,
@@ -344,119 +616,7 @@
       "isNew": true
     },
     {
-      "id": 90,
-      "url": "https://www.nodeseek.com/post-1080688-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080688-1",
-      "title": "[收] 350收 破云/艾云 DE 9929 2T 240 HKD款",
-      "summary": "",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617272000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:34",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 91,
-      "url": "https://www.nodeseek.com/post-1080687-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080687-1",
-      "title": "【出】IE区OVH GRA机房 KS-LE-6 EPYC7351P 128G 2x1.92TB NVMe",
-      "summary": "今晚刚开机，12月25到期，总价1500出，溢价不到1100。支持先款或中介自理。💻基本信息 硬件质量体检报告： 51.178.*.* [4",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617217000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:33",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 92,
-      "url": "https://www.nodeseek.com/post-1080686-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080686-1",
-      "title": "美区学生pro掉了先别急",
-      "summary": "想刷99黑五pro只要是plus在期也行千万别去日区或者土区因为美区学生每次掉了都还有一年plus来年你还能再刷一次pro资格还在活动期间你点plus重新订阅就能刷出来99pro明年99pro到期别续重新认证学生你又能稳稳多一年pro去日区和土区看似省了那20刀实则挺亏数据重新迁移不说而且白养一年权重了参加灰度测试",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617215000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:33",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 93,
-      "url": "https://www.nodeseek.com/post-1080685-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080685-1",
-      "title": "哈基米学生plus三个小时又掉了",
-      "summary": "七点多看到pro掉了开了plus，五分钟前plus又掉了，已经白嫖不了了，rip",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617174000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:32",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 94,
-      "url": "https://www.nodeseek.com/post-1080684-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080684-1",
-      "title": "ovh ks-le-6 rbx硬件测试",
-      "summary": "SICKv3.2.0·服务器硬件检查════════════════════════════════════════════════════════════════════════════════系统硬件信息报告════════════════════════════════════════════════════",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617165000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:32",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 95,
-      "url": "https://www.nodeseek.com/post-1080683-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080683-1",
-      "title": "Carbon好像比Neon慢很多",
-      "summary": "用了好几天感觉Carbon思考确实还是比Neon多一点，虽然跑分差不多，但是Neon真的快啊，比Carbon一般要舒服一点",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617105000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:31",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 96,
-      "url": "https://www.nodeseek.com/post-1080682-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1080682-1",
-      "title": "[nsfw]现在gpt image能出这样的图了？",
-      "summary": "",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795617093000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 22:31",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 26,
+      "id": 29,
       "url": "https://www.v2ex.com/t/1259828",
       "canonicalUrl": "https://www.v2ex.com/t/1259828",
       "title": "做了个专攻生图的 API 站：GPT Image 2/2.5 一分钱一张，Gemini 3 Pro Image 九分钱，评论抽 20 位 V 友送额度",
@@ -472,23 +632,7 @@
       "isNew": true
     },
     {
-      "id": 1,
-      "url": "https://linux.do/t/topic/3243924",
-      "canonicalUrl": "https://linux.do/t/topic/3243924",
-      "title": "分享一个订阅链接",
-      "summary": "",
-      "category": "会员订阅",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795614559000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 21:49",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 2,
+      "id": 8,
       "url": "https://linux.do/t/topic/3243919",
       "canonicalUrl": "https://linux.do/t/topic/3243919",
       "title": "恢复学生订阅！",
@@ -504,7 +648,7 @@
       "isNew": true
     },
     {
-      "id": 27,
+      "id": 30,
       "url": "https://www.v2ex.com/t/1259825",
       "canonicalUrl": "https://www.v2ex.com/t/1259825",
       "title": "做了个给 Claude Code / Codex 用的云电脑，独享静态 IP，首月 $19.9，附赠 claude 模型额度",
@@ -520,7 +664,7 @@
       "isNew": true
     },
     {
-      "id": 3,
+      "id": 9,
       "url": "https://linux.do/t/topic/3243713",
       "canonicalUrl": "https://linux.do/t/topic/3243713",
       "title": "鸿蒙一亿感恩积分",
@@ -536,7 +680,7 @@
       "isNew": true
     },
     {
-      "id": 4,
+      "id": 10,
       "url": "https://linux.do/t/topic/3243689",
       "canonicalUrl": "https://linux.do/t/topic/3243689",
       "title": "优惠明天就过期了，黑五 Gemini Pro 年付 99 刀值不值得冲？纠结额度、改区和回本",
@@ -552,23 +696,7 @@
       "isNew": true
     },
     {
-      "id": 5,
-      "url": "https://linux.do/t/topic/3243601",
-      "canonicalUrl": "https://linux.do/t/topic/3243601",
-      "title": "GLM Coding Plan 体验卡 * 5",
-      "summary": "",
-      "category": "其他",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795611224000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 20:53",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 6,
+      "id": 11,
       "url": "https://linux.do/t/topic/3243439",
       "canonicalUrl": "https://linux.do/t/topic/3243439",
       "title": "[公益生图]image2.5/2.6生图站 支持 API 调用 支持 GIF。价格下调",
@@ -584,7 +712,7 @@
       "isNew": true
     },
     {
-      "id": 7,
+      "id": 12,
       "url": "https://linux.do/t/topic/3243295",
       "canonicalUrl": "https://linux.do/t/topic/3243295",
       "title": "来gemini学生认证链接",
@@ -600,7 +728,7 @@
       "isNew": true
     },
     {
-      "id": 28,
+      "id": 31,
       "url": "https://www.v2ex.com/t/1259803",
       "canonicalUrl": "https://www.v2ex.com/t/1259803",
       "title": "自己开 Claude 老封号 配环境麻烦？我们提供了一套本地部署 + 订阅代开方案",
@@ -616,7 +744,7 @@
       "isNew": true
     },
     {
-      "id": 29,
+      "id": 32,
       "url": "https://www.v2ex.com/t/1259801",
       "canonicalUrl": "https://www.v2ex.com/t/1259801",
       "title": "白嫖 Muse 30 亿 Token",
@@ -632,7 +760,7 @@
       "isNew": true
     },
     {
-      "id": 8,
+      "id": 13,
       "url": "https://linux.do/t/topic/3243136",
       "canonicalUrl": "https://linux.do/t/topic/3243136",
       "title": "送一个Qwen 3.8 27b api",
@@ -648,7 +776,7 @@
       "isNew": true
     },
     {
-      "id": 30,
+      "id": 33,
       "url": "https://www.v2ex.com/t/1259795",
       "canonicalUrl": "https://www.v2ex.com/t/1259795",
       "title": "受够了 Anthropic",
@@ -664,7 +792,7 @@
       "isNew": true
     },
     {
-      "id": 9,
+      "id": 14,
       "url": "https://linux.do/t/topic/3242979",
       "canonicalUrl": "https://linux.do/t/topic/3242979",
       "title": "GPT business 免费 5 席位过了，但是...",
@@ -680,7 +808,7 @@
       "isNew": true
     },
     {
-      "id": 31,
+      "id": 34,
       "url": "https://www.v2ex.com/t/1259793",
       "canonicalUrl": "https://www.v2ex.com/t/1259793",
       "title": "脑子里有个镜头，想先做出来看看：分享视频工具 Magi 2",
@@ -696,7 +824,7 @@
       "isNew": true
     },
     {
-      "id": 10,
+      "id": 15,
       "url": "https://linux.do/t/topic/3242948",
       "canonicalUrl": "https://linux.do/t/topic/3242948",
       "title": "Google ai 突然报错 400，这是第三关吗",
@@ -712,7 +840,7 @@
       "isNew": true
     },
     {
-      "id": 32,
+      "id": 35,
       "url": "https://www.v2ex.com/t/1259791",
       "canonicalUrl": "https://www.v2ex.com/t/1259791",
       "title": "ChatGPT plus 官方订阅",
@@ -728,7 +856,7 @@
       "isNew": true
     },
     {
-      "id": 33,
+      "id": 36,
       "url": "https://www.v2ex.com/t/1259790",
       "canonicalUrl": "https://www.v2ex.com/t/1259790",
       "title": "[30 天免费试用，可薅] 比 CrossOver 便宜的 MAC 玩 Windows 游戏的新方法 Portico",
@@ -744,7 +872,7 @@
       "isNew": true
     },
     {
-      "id": 11,
+      "id": 16,
       "url": "https://linux.do/t/topic/3242804",
       "canonicalUrl": "https://linux.do/t/topic/3242804",
       "title": "华为码道云免费送瑞幸福利来了，超简单即可完成",
@@ -760,7 +888,7 @@
       "isNew": true
     },
     {
-      "id": 12,
+      "id": 17,
       "url": "https://linux.do/t/topic/3242774",
       "canonicalUrl": "https://linux.do/t/topic/3242774",
       "title": "零跑车主app福利",
@@ -776,7 +904,7 @@
       "isNew": true
     },
     {
-      "id": 34,
+      "id": 37,
       "url": "https://www.v2ex.com/t/1259784",
       "canonicalUrl": "https://www.v2ex.com/t/1259784",
       "title": "复刻了最近比较火的“猜年龄”游戏，大家看看准不准？",
@@ -803,22 +931,6 @@
       "publishedAt": 1795600781000,
       "expiresAt": null,
       "publishedLabel": "2026-11-25 17:59",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 13,
-      "url": "https://linux.do/t/topic/3242566",
-      "canonicalUrl": "https://linux.do/t/topic/3242566",
-      "title": "白嫖小豆2核4G的容器",
-      "summary": "",
-      "category": "免费白嫖",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795600408000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 17:53",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
@@ -888,7 +1000,7 @@
       "isNew": true
     },
     {
-      "id": 35,
+      "id": 38,
       "url": "https://www.v2ex.com/t/1259773",
       "canonicalUrl": "https://www.v2ex.com/t/1259773",
       "title": "回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
@@ -952,7 +1064,7 @@
       "isNew": true
     },
     {
-      "id": 36,
+      "id": 39,
       "url": "https://www.v2ex.com/t/1259766",
       "canonicalUrl": "https://www.v2ex.com/t/1259766",
       "title": "[中转站源头] ai.mlsqq.xyz｜ GPT 低至 0.045｜充值 1 元=1 刀｜注册进群送 1 刀｜接下游",
@@ -968,7 +1080,7 @@
       "isNew": true
     },
     {
-      "id": 37,
+      "id": 40,
       "url": "https://www.v2ex.com/t/1259765",
       "canonicalUrl": "https://www.v2ex.com/t/1259765",
       "title": "宝塔新用户首次安装，可免费领取一年期商用 SSL 证书",
@@ -984,7 +1096,7 @@
       "isNew": true
     },
     {
-      "id": 38,
+      "id": 41,
       "url": "https://www.v2ex.com/t/1259764",
       "canonicalUrl": "https://www.v2ex.com/t/1259764",
       "title": "黑五限时｜Proxy001 住宅代理最高 5 折起，流量再赠最高 500GB",
@@ -1000,7 +1112,7 @@
       "isNew": true
     },
     {
-      "id": 14,
+      "id": 18,
       "url": "https://linux.do/t/topic/3241976",
       "canonicalUrl": "https://linux.do/t/topic/3241976",
       "title": "免费领取eivi500积分",
@@ -1032,7 +1144,7 @@
       "isNew": true
     },
     {
-      "id": 15,
+      "id": 19,
       "url": "https://linux.do/t/topic/3241799",
       "canonicalUrl": "https://linux.do/t/topic/3241799",
       "title": "【发红包！】太爽了家人们，也是成功，最爽的一个月",
@@ -1048,7 +1160,7 @@
       "isNew": true
     },
     {
-      "id": 39,
+      "id": 42,
       "url": "https://www.v2ex.com/t/1259757",
       "canonicalUrl": "https://www.v2ex.com/t/1259757",
       "title": "[推广] 美国 AT&T 家宽云服务器适合哪些场景、不适合哪些？整理了一份 FAQ",
@@ -1080,7 +1192,7 @@
       "isNew": true
     },
     {
-      "id": 16,
+      "id": 20,
       "url": "https://linux.do/t/topic/3241743",
       "canonicalUrl": "https://linux.do/t/topic/3241743",
       "title": "华为云码道送瑞幸咖啡，流程优化版",
@@ -1096,7 +1208,7 @@
       "isNew": true
     },
     {
-      "id": 40,
+      "id": 43,
       "url": "https://www.v2ex.com/t/1259754",
       "canonicalUrl": "https://www.v2ex.com/t/1259754",
       "title": "1024Proxy 和 AdsPower 合作了，聊聊代理 IP 与指纹浏览器的搭配 🌐",
@@ -1112,7 +1224,7 @@
       "isNew": true
     },
     {
-      "id": 41,
+      "id": 44,
       "url": "https://www.v2ex.com/t/1259747",
       "canonicalUrl": "https://www.v2ex.com/t/1259747",
       "title": "TokHive: AI Token 的咸鱼平台",
@@ -1128,7 +1240,7 @@
       "isNew": true
     },
     {
-      "id": 17,
+      "id": 21,
       "url": "https://linux.do/t/topic/3241318",
       "canonicalUrl": "https://linux.do/t/topic/3241318",
       "title": "哔哩哔哩送福利",
@@ -1144,7 +1256,7 @@
       "isNew": true
     },
     {
-      "id": 18,
+      "id": 22,
       "url": "https://linux.do/t/topic/3241313",
       "canonicalUrl": "https://linux.do/t/topic/3241313",
       "title": "请教一下，现在黑五价格合适还是学生认证活动合适？",
@@ -1160,7 +1272,7 @@
       "isNew": true
     },
     {
-      "id": 42,
+      "id": 45,
       "url": "https://www.v2ex.com/t/1259728",
       "canonicalUrl": "https://www.v2ex.com/t/1259728",
       "title": "9HTTP 海外代理 新品上线：优质 ISP 代理——美国 IP",
@@ -1192,7 +1304,7 @@
       "isNew": true
     },
     {
-      "id": 43,
+      "id": 46,
       "url": "https://www.v2ex.com/t/1259712",
       "canonicalUrl": "https://www.v2ex.com/t/1259712",
       "title": "实测天花板！日本原生家宽节点，用过就回不去了（附 CDK 福利）",
@@ -1224,7 +1336,7 @@
       "isNew": true
     },
     {
-      "id": 19,
+      "id": 23,
       "url": "https://linux.do/t/topic/3240579",
       "canonicalUrl": "https://linux.do/t/topic/3240579",
       "title": "DMIT服务器今年还有机会上车吗",
@@ -1240,7 +1352,7 @@
       "isNew": true
     },
     {
-      "id": 20,
+      "id": 24,
       "url": "https://linux.do/t/topic/3240534",
       "canonicalUrl": "https://linux.do/t/topic/3240534",
       "title": "麦麦脆汁鸡，随单满15送",
@@ -1256,7 +1368,7 @@
       "isNew": true
     },
     {
-      "id": 21,
+      "id": 25,
       "url": "https://linux.do/t/topic/3240474",
       "canonicalUrl": "https://linux.do/t/topic/3240474",
       "title": "麦当劳免费领券",
@@ -1267,70 +1379,6 @@
       "publishedAt": 1795586899000,
       "expiresAt": null,
       "publishedLabel": "2026-11-25 14:08",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 22,
-      "url": "https://linux.do/t/topic/3240439",
-      "canonicalUrl": "https://linux.do/t/topic/3240439",
-      "title": "ChatGPT Teams 免费五个席位一个月",
-      "summary": "",
-      "category": "免费白嫖",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795586621000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 14:03",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 23,
-      "url": "https://linux.do/t/topic/3240384",
-      "canonicalUrl": "https://linux.do/t/topic/3240384",
-      "title": "⏰14点 茉莉奶白",
-      "summary": "",
-      "category": "其他",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795586222000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 13:57",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 24,
-      "url": "https://linux.do/t/topic/3240304",
-      "canonicalUrl": "https://linux.do/t/topic/3240304",
-      "title": "免费送一万积分",
-      "summary": "",
-      "category": "免费白嫖",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795585624000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 13:47",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 25,
-      "url": "https://linux.do/t/topic/3240297",
-      "canonicalUrl": "https://linux.do/t/topic/3240297",
-      "title": "【Moonup API】GPT 满血所有分组开启免费fast 0.1x起 90缓存｜Cluade企业纯血号池 官方2.8折｜充值 1:1｜新人进群回帖送 5 刀",
-      "summary": "",
-      "category": "免费白嫖",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "publishedAt": 1795585543000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-25 13:45",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
@@ -1352,7 +1400,7 @@
       "isNew": true
     },
     {
-      "id": 44,
+      "id": 47,
       "url": "https://www.v2ex.com/t/1259679",
       "canonicalUrl": "https://www.v2ex.com/t/1259679",
       "title": "同一模型，选对分组能省 95%？",
@@ -1384,7 +1432,7 @@
       "isNew": true
     },
     {
-      "id": 45,
+      "id": 48,
       "url": "https://www.v2ex.com/t/1259674",
       "canonicalUrl": "https://www.v2ex.com/t/1259674",
       "title": "chat GPT plus [139 月]",
@@ -1400,7 +1448,7 @@
       "isNew": true
     },
     {
-      "id": 46,
+      "id": 49,
       "url": "https://www.v2ex.com/t/1259671",
       "canonicalUrl": "https://www.v2ex.com/t/1259671",
       "title": "[LinkAGI] 用 DeepSeek 给商品表加一列英文标题，附能直接跑的 Python 脚本",
@@ -1416,7 +1464,7 @@
       "isNew": true
     },
     {
-      "id": 47,
+      "id": 50,
       "url": "https://www.v2ex.com/t/1259670",
       "canonicalUrl": "https://www.v2ex.com/t/1259670",
       "title": "[福利 CDK] Zooproxy 上新美国 AI 优化渠道 IP，赠送动态住宅测试流量",
@@ -1432,7 +1480,7 @@
       "isNew": true
     },
     {
-      "id": 48,
+      "id": 51,
       "url": "https://www.v2ex.com/t/1259660",
       "canonicalUrl": "https://www.v2ex.com/t/1259660",
       "title": "做了个多模型订阅，DeepSeek V4.1 Flash 无限供应，注册送 $10",
@@ -1448,7 +1496,7 @@
       "isNew": true
     },
     {
-      "id": 49,
+      "id": 52,
       "url": "https://www.v2ex.com/t/1259655",
       "canonicalUrl": "https://www.v2ex.com/t/1259655",
       "title": "个人色彩测试工具有哪些？上传照片测肤色、四季色彩和适合自己的穿搭颜色",
@@ -1464,7 +1512,7 @@
       "isNew": true
     },
     {
-      "id": 50,
+      "id": 53,
       "url": "https://www.v2ex.com/t/1259629",
       "canonicalUrl": "https://www.v2ex.com/t/1259629",
       "title": "免费的 ds4.1flash",
@@ -1480,7 +1528,7 @@
       "isNew": true
     },
     {
-      "id": 51,
+      "id": 54,
       "url": "https://www.v2ex.com/t/1259589",
       "canonicalUrl": "https://www.v2ex.com/t/1259589",
       "title": "V2CC：北美家宽独享实体 Mac mini，预装 Claude Code，首单减 ¥200",
@@ -1496,7 +1544,7 @@
       "isNew": true
     },
     {
-      "id": 52,
+      "id": 55,
       "url": "https://www.v2ex.com/t/1259571",
       "canonicalUrl": "https://www.v2ex.com/t/1259571",
       "title": "CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 支持美刀支付",
@@ -1512,7 +1560,7 @@
       "isNew": true
     },
     {
-      "id": 53,
+      "id": 56,
       "url": "https://www.v2ex.com/t/1259567",
       "canonicalUrl": "https://www.v2ex.com/t/1259567",
       "title": "[推广] 说说我的工具转得最差的一类图，以及为什么",
@@ -1528,7 +1576,7 @@
       "isNew": true
     },
     {
-      "id": 54,
+      "id": 57,
       "url": "https://www.v2ex.com/t/1259560",
       "canonicalUrl": "https://www.v2ex.com/t/1259560",
       "title": "兄弟们，从技术到管理大家怎么克服当众讲话的",
@@ -1544,7 +1592,7 @@
       "isNew": true
     },
     {
-      "id": 55,
+      "id": 58,
       "url": "https://www.v2ex.com/t/1259544",
       "canonicalUrl": "https://www.v2ex.com/t/1259544",
       "title": "维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
@@ -1560,7 +1608,7 @@
       "isNew": true
     },
     {
-      "id": 56,
+      "id": 59,
       "url": "https://www.v2ex.com/t/1259543",
       "canonicalUrl": "https://www.v2ex.com/t/1259543",
       "title": "[问与答] 扫描件、斜着拍的照片，到底能不能转成可编辑 PPT",
@@ -1576,7 +1624,7 @@
       "isNew": true
     },
     {
-      "id": 57,
+      "id": 60,
       "url": "https://www.v2ex.com/t/1259527",
       "canonicalUrl": "https://www.v2ex.com/t/1259527",
       "title": "Muse 卖爆了！手搓依然稳定，别家机器号都炸了！🚀补货 10 亿 310 亿成品号_代解封_注册_邀请助力_官号订阅都有！",
@@ -1592,7 +1640,7 @@
       "isNew": true
     },
     {
-      "id": 58,
+      "id": 61,
       "url": "https://www.v2ex.com/t/1259524",
       "canonicalUrl": "https://www.v2ex.com/t/1259524",
       "title": "老黄回归英伟达？福利来了",
@@ -1608,7 +1656,7 @@
       "isNew": true
     },
     {
-      "id": 59,
+      "id": 62,
       "url": "https://www.v2ex.com/t/1259521",
       "canonicalUrl": "https://www.v2ex.com/t/1259521",
       "title": "api 中转站怎么使用不烧心",
@@ -1624,7 +1672,7 @@
       "isNew": true
     },
     {
-      "id": 60,
+      "id": 63,
       "url": "https://www.v2ex.com/t/1259518",
       "canonicalUrl": "https://www.v2ex.com/t/1259518",
       "title": "opus fable gpt glm 等等等等应有尽有 低至 0.5 折",
@@ -1640,7 +1688,7 @@
       "isNew": true
     },
     {
-      "id": 61,
+      "id": 64,
       "url": "https://www.v2ex.com/t/1259515",
       "canonicalUrl": "https://www.v2ex.com/t/1259515",
       "title": "自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
@@ -1688,7 +1736,7 @@
       "isNew": true
     },
     {
-      "id": 62,
+      "id": 65,
       "url": "https://www.v2ex.com/t/1259493",
       "canonicalUrl": "https://www.v2ex.com/t/1259493",
       "title": "聊聊独立开发者如何用 AWS 对象存储低成本搞定 APK 分发与防拦截",
@@ -1704,7 +1752,7 @@
       "isNew": true
     },
     {
-      "id": 63,
+      "id": 66,
       "url": "https://www.v2ex.com/t/1259492",
       "canonicalUrl": "https://www.v2ex.com/t/1259492",
       "title": "Leaflow - 新时代的 Agent Infra ，帮你从 Vibe Coding 到 Vibe Shipping",
@@ -1736,7 +1784,7 @@
       "isNew": true
     },
     {
-      "id": 64,
+      "id": 67,
       "url": "https://www.v2ex.com/t/1259472",
       "canonicalUrl": "https://www.v2ex.com/t/1259472",
       "title": "🚀[AI 客栈] 自建 AI API 中转站，多个主流模型低倍率接入",
@@ -1752,7 +1800,7 @@
       "isNew": true
     },
     {
-      "id": 65,
+      "id": 68,
       "url": "https://www.v2ex.com/t/1259468",
       "canonicalUrl": "https://www.v2ex.com/t/1259468",
       "title": "自建 GLM5.3 模型免费使用，送给有需要的 V 友们，羊毛大放送",
@@ -1784,7 +1832,7 @@
       "isNew": true
     },
     {
-      "id": 66,
+      "id": 69,
       "url": "https://www.v2ex.com/t/1259466",
       "canonicalUrl": "https://www.v2ex.com/t/1259466",
       "title": "AI 中转站出租",
@@ -1800,7 +1848,7 @@
       "isNew": true
     },
     {
-      "id": 67,
+      "id": 70,
       "url": "https://www.v2ex.com/t/1259438",
       "canonicalUrl": "https://www.v2ex.com/t/1259438",
       "title": "[藕片中转站] 想低成本体验 claude 的用户，欢迎来试用，有赠送额度",
@@ -1816,7 +1864,7 @@
       "isNew": true
     },
     {
-      "id": 68,
+      "id": 71,
       "url": "https://www.v2ex.com/t/1259436",
       "canonicalUrl": "https://www.v2ex.com/t/1259436",
       "title": "RoamFort 全球旅行 eSIM 支持游客结账，分享韩国、日本和美国的短途套餐",
@@ -1848,7 +1896,7 @@
       "isNew": true
     },
     {
-      "id": 69,
+      "id": 72,
       "url": "https://www.v2ex.com/t/1259412",
       "canonicalUrl": "https://www.v2ex.com/t/1259412",
       "title": "写代码离不开 Claude 的看过来｜Claude Code 灵活订阅，最低 0.07 倍率 🔥",
@@ -1864,7 +1912,7 @@
       "isNew": true
     },
     {
-      "id": 70,
+      "id": 73,
       "url": "https://www.v2ex.com/t/1259406",
       "canonicalUrl": "https://www.v2ex.com/t/1259406",
       "title": "[LinkAGI] 放一个 n8n 会议待办模板，每条任务都能对回会议原话",
@@ -1880,7 +1928,7 @@
       "isNew": true
     },
     {
-      "id": 71,
+      "id": 74,
       "url": "https://www.v2ex.com/t/1259405",
       "canonicalUrl": "https://www.v2ex.com/t/1259405",
       "title": "ChatGPT 直冲 59RMB 起，欢迎 V 友咨询",
@@ -1896,7 +1944,7 @@
       "isNew": true
     },
     {
-      "id": 72,
+      "id": 75,
       "url": "https://www.v2ex.com/t/1259401",
       "canonicalUrl": "https://www.v2ex.com/t/1259401",
       "title": "¥500 出剩余 20 天订阅的 GPT Pro 500 成品号",
@@ -1907,38 +1955,6 @@
       "publishedAt": 1795492685000,
       "expiresAt": null,
       "publishedLabel": "2026-11-24 11:58",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 73,
-      "url": "https://www.v2ex.com/t/1259395",
-      "canonicalUrl": "https://www.v2ex.com/t/1259395",
-      "title": "如何给自己的 agent 加上高质量私域数据？",
-      "summary": "最近了解到这个需求，自己开发了一个网页后台接入 api，可以实现让自己的 agent 接入高质量的数据，比如小红书，reddit，抖音，aws，1688 等~ 欢迎各位 v 友体验下并且给些反馈！ 地址如下： https://haitu.mumong.cn/ 注册就送免费额度，使用方便，官网也有写真实案例供大家参考~…",
-      "category": "其他",
-      "sourceId": "v2ex",
-      "sourceName": "V2EX推广",
-      "publishedAt": 1795491454000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-24 11:37",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 74,
-      "url": "https://www.v2ex.com/t/1259392",
-      "canonicalUrl": "https://www.v2ex.com/t/1259392",
-      "title": "Codex 自建池｜平价使用企业级线路",
-      "summary": "• 纯 Pro 池，多线路稳定供应，成功率长期 99.9+ • Codex 全模型可用， 高 RPM / 高并发，适合长时间持续跑 • 超高缓存，整体 95%上下，最高纪录 99% • 按量全场 0.2 ，充值立享 0.17 优惠，月度阶梯最低 0.15 • 充值倍率 1:5，线路倍率 1，模型价格与官方同价 • 包月…",
-      "category": "其他",
-      "sourceId": "v2ex",
-      "sourceName": "V2EX推广",
-      "publishedAt": 1795491093000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-24 11:31",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
@@ -1955,22 +1971,6 @@
       "publishedAt": 1795490663000,
       "expiresAt": null,
       "publishedLabel": "2026-11-24 11:24",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 75,
-      "url": "https://www.v2ex.com/t/1259385",
-      "canonicalUrl": "https://www.v2ex.com/t/1259385",
-      "title": "Zenlayer 黑五：指定独立服务器 5 折 $98.60/月起&流量 6 折&充值 100 送 50&首单返 25",
-      "summary": "Zenlayer 是一家全球边缘云服务商，在亚太、美洲、欧洲和中东的 50 多个城市提供裸金属和弹性云服务器，全部在同一个自助控制台下单。 黑五期间，指定独立服务器 5 折，配套的流量或带宽 6 折。活动持续到 12 月 1 日 23:59:59，这段时间内下的单，只要一直续着，续费都是同一个价。 下面全是整机独占的裸…",
-      "category": "低价优惠",
-      "sourceId": "v2ex",
-      "sourceName": "V2EX推广",
-      "publishedAt": 1795490040000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-24 11:14",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
