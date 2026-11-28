@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795823928561,
-  "lastUpdatedAt": 1795823929840,
-  "lastUpdatedLabel": "2026-11-28 07:58",
+  "generatedAt": 1795824502067,
+  "lastUpdatedAt": 1795824503461,
+  "lastUpdatedLabel": "2026-11-28 08:08",
   "nextRefreshAt": null,
   "nextRefreshLabel": null,
   "sourceHealth": {
@@ -137,6 +137,86 @@
   "deals": [
     {
       "id": 78,
+      "url": "https://www.nodeseek.com/post-1087139-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1087139-1",
+      "title": "ZgoCloud 大佬们，这家怎么样？有没有真实评价？",
+      "summary": "他们家的三网优化怎么样呀？听说有黑五，黑五活动。",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795824448000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-28 08:07",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 79,
+      "url": "https://www.nodeseek.com/post-1087138-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1087138-1",
+      "title": "Claude解封了好多中国用户",
+      "summary": "被gemini抢用户了，我之前弹kyc的号也不弹了",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795824249000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-28 08:04",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 80,
+      "url": "https://www.nodeseek.com/post-1087137-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1087137-1",
+      "title": "刚买的 云悠洛杉矶c.std.t basic 【nq+tq】",
+      "summary": "不知道值不值看见就买了19.9加手续费22左右💻基本信息 硬件质量体检报告： 216.167.*.* https://github.c",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795824150000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-28 08:02",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 81,
+      "url": "https://www.nodeseek.com/post-1087136-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1087136-1",
+      "title": "新用户没刷出来谷歌黑五",
+      "summary": "感觉可以放弃了，谷歌拉新用户的目的已经达到了，不缺我们这些用户",
+      "category": "低价优惠",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795824135000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-28 08:02",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 82,
+      "url": "https://www.nodeseek.com/post-1087135-1",
+      "canonicalUrl": "https://www.nodeseek.com/post-1087135-1",
+      "title": "dartnode 快闪 $59/年 2c6g 120+1000G",
+      "summary": "https://dartnode.com/warehouse-deals/449VPS-4:2vCPU,6GBRAM,150GBSSDboot,plus1TBblockstorageincluded,IPv4+IPv6,1GbpsontheDartNodenetwork(AS399646).ChooseyourUS",
+      "category": "其他",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "publishedAt": 1795823989000,
+      "expiresAt": null,
+      "publishedLabel": "2026-11-28 07:59",
+      "expiresLabel": null,
+      "expiresSoon": false,
+      "isNew": true
+    },
+    {
+      "id": 83,
       "url": "https://www.nodeseek.com/post-1087134-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087134-1",
       "title": "中转在美西，落地是不是应该也选美西？这样延迟会低一些吧？",
@@ -152,7 +232,7 @@
       "isNew": true
     },
     {
-      "id": 79,
+      "id": 84,
       "url": "https://www.nodeseek.com/post-1087133-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087133-1",
       "title": "StarryDNS的硬件好像很差",
@@ -168,7 +248,7 @@
       "isNew": true
     },
     {
-      "id": 80,
+      "id": 85,
       "url": "https://www.nodeseek.com/post-1087131-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087131-1",
       "title": "收一个反重力账户",
@@ -184,7 +264,7 @@
       "isNew": true
     },
     {
-      "id": 81,
+      "id": 86,
       "url": "https://www.nodeseek.com/post-1087130-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087130-1",
       "title": "人找车 美西伪家宽，一个月500GB流量，口子大一点吧",
@@ -200,7 +280,7 @@
       "isNew": true
     },
     {
-      "id": 82,
+      "id": 87,
       "url": "https://www.nodeseek.com/post-1087129-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087129-1",
       "title": "有没有卖日区学生pro账号的",
@@ -216,7 +296,7 @@
       "isNew": true
     },
     {
-      "id": 83,
+      "id": 88,
       "url": "https://www.nodeseek.com/post-1087128-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087128-1",
       "title": "黑五那些闪购套餐你们真能抢到吗？",
@@ -232,7 +312,7 @@
       "isNew": true
     },
     {
-      "id": 84,
+      "id": 89,
       "url": "https://www.nodeseek.com/post-1087127-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087127-1",
       "title": "出自用菲区pro200账号，12/03到期",
@@ -248,7 +328,7 @@
       "isNew": true
     },
     {
-      "id": 85,
+      "id": 90,
       "url": "https://www.nodeseek.com/post-1087126-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087126-1",
       "title": "收个哈基米99刀一年pro号",
@@ -264,7 +344,7 @@
       "isNew": true
     },
     {
-      "id": 86,
+      "id": 91,
       "url": "https://www.nodeseek.com/post-1087125-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087125-1",
       "title": "洛杉矶/西雅图/各节点 年付$199 E3-1270v3/32GB/480GB SSD独服",
@@ -280,7 +360,7 @@
       "isNew": true
     },
     {
-      "id": 87,
+      "id": 92,
       "url": "https://www.nodeseek.com/post-1087124-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087124-1",
       "title": "telegram会员代开190",
@@ -296,7 +376,7 @@
       "isNew": true
     },
     {
-      "id": 88,
+      "id": 93,
       "url": "https://www.nodeseek.com/post-1087123-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087123-1",
       "title": "gpt 被封的账号，后续有没有可能解封阿",
@@ -312,7 +392,7 @@
       "isNew": true
     },
     {
-      "id": 89,
+      "id": 94,
       "url": "https://www.nodeseek.com/post-1087122-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087122-1",
       "title": "刚刚错过了 20收firevps 闪购套餐",
@@ -328,7 +408,7 @@
       "isNew": true
     },
     {
-      "id": 90,
+      "id": 95,
       "url": "https://www.nodeseek.com/post-1087120-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087120-1",
       "title": "「TQ 自测」ISVORO pro mini us",
@@ -360,7 +440,7 @@
       "isNew": true
     },
     {
-      "id": 91,
+      "id": 96,
       "url": "https://www.nodeseek.com/post-1087119-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087119-1",
       "title": "做社媒真的需要家宽吗？是伪需求？还是必须用？",
@@ -376,7 +456,7 @@
       "isNew": true
     },
     {
-      "id": 92,
+      "id": 97,
       "url": "https://www.nodeseek.com/post-1087118-1",
       "canonicalUrl": "https://www.nodeseek.com/post-1087118-1",
       "title": "（收）溢价 50 收个 rn",
@@ -387,86 +467,6 @@
       "publishedAt": 1795823019000,
       "expiresAt": null,
       "publishedLabel": "2026-11-28 07:43",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 93,
-      "url": "https://www.nodeseek.com/post-1087117-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1087117-1",
-      "title": "谷歌黑五老用户是不是已经停了",
-      "summary": "看到好像说美国时间26号就停了，我之前确实有刷的出来，后面就没了，是不是老用户都这样",
-      "category": "低价优惠",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795822921000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-28 07:42",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 94,
-      "url": "https://www.nodeseek.com/post-1087116-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1087116-1",
-      "title": "gemini 黑五活动是不是已经结束了",
-      "summary": "一个号不够用，想再开一个，但是貌似没有五折的优惠了",
-      "category": "低价优惠",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795822880000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-28 07:41",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 95,
-      "url": "https://www.nodeseek.com/post-1087115-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1087115-1",
-      "title": "求助大佬们，云悠稳不稳？能开年费吗？",
-      "summary": "抢中了一个节点，目前包月的，平时代理用，流量够用。想切换年付的，有大佬知道这家稳不稳吗？",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795822826000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-28 07:40",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 96,
-      "url": "https://www.nodeseek.com/post-1087114-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1087114-1",
-      "title": "出wap TW E5 HINET LXC IPv6 1刀",
-      "summary": "",
-      "category": "其他",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795822824000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-28 07:40",
-      "expiresLabel": null,
-      "expiresSoon": false,
-      "isNew": true
-    },
-    {
-      "id": 97,
-      "url": "https://www.nodeseek.com/post-1087113-1",
-      "canonicalUrl": "https://www.nodeseek.com/post-1087113-1",
-      "title": "【出售】Bage vm 香港 Hong Kong Lite - TINY折扣机。年付20U。明盘出！",
-      "summary": "HongKongLite-TINYVM-G9WQNLDY185.241.40.*4T/每月年付：$20.65USD每年2027-1-3明盘：包PLUS60元移动直链优秀马上到期了。不准备续费了。IP都正常。",
-      "category": "低价优惠",
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "publishedAt": 1795822781000,
-      "expiresAt": null,
-      "publishedLabel": "2026-11-28 07:39",
       "expiresLabel": null,
       "expiresSoon": false,
       "isNew": true
